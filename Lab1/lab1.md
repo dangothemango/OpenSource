@@ -7,3 +7,7 @@
 #Tree Man Page: ![mantree](images/mantree.png)
 
 #Blockly Solution: ![blockly](images/blockly.png)
+
+#Regular Expressions Tutorial: ![regex1](images/regex1.png)
+
+#RegexCrossword: ![regexcrossword](images/regexcrossword.png)
