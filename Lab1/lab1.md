@@ -8,6 +8,6 @@
 
 #Blockly Solution: ![blockly](images/blockly.png)
 
-#Regular Expressions Tutorial: ![regex1](images/regex1.png)
+#Regular Expressions Tutorial: ![regex1](images/Regex1.png)
 
 #RegexCrossword: ![regexcrossword](images/regexcrossword.png)
