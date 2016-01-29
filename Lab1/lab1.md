@@ -10,4 +10,7 @@
 
 #Regular Expressions Tutorial: ![regex1](images/Regex1.png)
 
-#RegexCrossword: ![regexcrossword](images/regexcrossword.png)
+#RegexCrossword: ![regexcrossword](images/regexcrossword.png
+
+#Potential Project:
+I havent given to much thought into a potential project yet, but I would like to do something related to the pebble watch. Some sort of watchapp that connects to your computer or phone or website in some interesting way. I could possible do something with the IFTTT "Do" button. Another thing that I would love to do would be to create a jailbreak tweak for the iPhone. I don't know exactly what i would want to tweak, but its an idea.
