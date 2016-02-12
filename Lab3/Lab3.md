@@ -9,3 +9,8 @@ https://github.com/dangothemango/OpenSource.git
 #Gitlog
 
 ![gitlog](images/gitlog.png)
+
+#Git Tutorial
+
+![gittut](images/gittut.png)
+
