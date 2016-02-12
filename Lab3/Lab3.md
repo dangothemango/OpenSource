@@ -4,13 +4,13 @@ https://github.com/dangothemango/OpenSource.git
 
 #Gitk
 
-![gitk](images/gitk.png)
+![gitk](Images/gitk.png)
 
 #Gitlog
 
-![gitlog](images/gitlog.png)
+![gitlog](Images/gitlog.png)
 
 #Git Tutorial
 
-![gittut](images/gittut.png)
+![gittut](Images/gittut.png)
 
