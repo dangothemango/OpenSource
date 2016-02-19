@@ -1,0 +1,13 @@
+Index: article.xml
+===================================================================
+--- article.xml	(revision 48199)
++++ article.xml	(working copy)
+@@ -231,7 +231,7 @@
+       example, in-progress work for a new device driver that is
+       otherwise isolated from the rest of the tree may be granted
+       an extension.  A new scheduler, however, may not be feasible,
+-      expecially if such dramatic changes do not exist in another
++      especially if such dramatic changes do not exist in another
+       branch.</para>
+   </sect1>
+ 
