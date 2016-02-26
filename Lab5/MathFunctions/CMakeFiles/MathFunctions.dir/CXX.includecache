@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/MathFunctions.h
+
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/Table.h
+
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/TutorialConfig.h
+Table.h
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/Table.h
+math.h
+-
+
+TutorialConfig.h
+

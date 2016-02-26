@@ -1,0 +1,3 @@
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/CMakeFiles/Tutorial.dir
+/Users/dan/Documents/Dropbox/School/2016 Spring/OpenSource/Lab5/MathFunctions/CMakeFiles/MakeTable.dir
