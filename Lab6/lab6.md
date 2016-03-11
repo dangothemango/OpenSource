@@ -25,7 +25,6 @@ Table 4 16-20
    * dygraphs
    * Web
  * Gitstats reports a few more lines of code and provides more infromation than we were supposed to find. it was hard to locate the dates of the first and most recent commits. but the other data was easily accessible
- * https://youtu.be/H4x587jVhz4
 
 #18: Trellis
   * 1 Contributer
@@ -49,9 +48,19 @@ Table 4 16-20
 +    * There were only a few commits so gitstats didn't offer much more insight into the project.
 +   * [Gource Visualization](https://youtu.be/qlmHoGevHoQ)
 
-
-
-    *[FindMe Gource File](https://youtu.be/1DEaaZCtEZw)
+#20: FindMe
+* Number of Contributors: 1
+* Number of lines of Code: 1087
+* First Commit: September 15, 2015
+* Latest Commit: September 15, 2015
+* Current Branches:
+  * test
+  * carson
+  * develop
+  * garret
+  * lucas
+* GitStat shows the same number of contributors and commits, the the number of lines is reduced to 722 
+*[FindMe Gource File](https://youtu.be/1DEaaZCtEZw)
     
     
     
