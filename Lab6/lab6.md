@@ -11,8 +11,7 @@ Table 4 16-20
    * graphics-testing
    * gh-pages
    * stable
- * Gitstats reports WAY fewer lines of code 190358, i believe this is due to the command we used analyzing images and other files as lines.
- * https://youtu.be/HSjpTWJr5TM
+ * Gitstats reports WAY fewer lines of code 190358, i believe this is due to the command we used analyzing images and other files as lines. 
 
 #17: EveOnlineMarketAnalysisTool
  * 7 Contributors
@@ -50,3 +49,8 @@ Table 4 16-20
 +   * [Gource Visualization](https://youtu.be/qlmHoGevHoQ)
 
 
+
+    *[FindMe Gource File](https://youtu.be/1DEaaZCtEZw)
+    
+    
+    
