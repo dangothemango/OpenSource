@@ -26,6 +26,14 @@ Table 4 16-20
    * Web
  * Gitstats reports a few more lines of code and provides more infromation than we were supposed to find. it was hard to locate the dates of the first and most recent commits. but the other data was easily accessible
 
+#18: Trellis
+  * 1 Contributer
+  * 3595 total lines of code
+  * First commit August 30th, 2015
+  * Latest commit December 10th, 2015
+  * There is 1 branch:
+    * Master   
+
 #19: Gatekeeper
   * 2 Contributers
   * 219 total lines of code
@@ -35,10 +43,4 @@ Table 4 16-20
     * Master
     * test/motor
 
-#20: Trellis
-  * 1 Contributer
-  * 3595 total lines of code
-  * First commit August 30th, 2015
-  * Latest commit December 10th, 2015
-  * There is 1 branch:
-    * Master   
+
