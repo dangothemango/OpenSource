@@ -13,3 +13,12 @@ Branches: dev, netcode, graphics-testing, gh-pages, stable
 First commit: 2/10/2015
 Most recent commit: 12/03/2015
 Branches: develop, master, Merge, dygraphs, Web
+
+#19: Gatekeeper
+  * 2 Contributers
+  * 219 total lines of code
+  * First commit September 8th, 2015
+  * Latest commit September 29th, 2015
+  * There are 2 branches:
+    * Master
+    * test/motor
