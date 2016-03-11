@@ -36,6 +36,7 @@ Table 4 16-20
   * There is 1 branch:
     * Master   
   * Gitstats reports a few less lines of code than I thought there was.  Overall it was very informative and displayed lots of information about the origin of commits.  It turns out whoever is doing this project took the code from a place with a lot more contributers, and the original project dates back to 2007.
+  * [Gource Visualization](https://youtu.be/6q9E3RD1bpE)
 
 #19: Gatekeeper
   * 2 Contributers
