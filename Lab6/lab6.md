@@ -11,7 +11,8 @@ Table 4 16-20
    * graphics-testing
    * gh-pages
    * stable
- * Gitstats reports WAY fewer lines of code 190358, i believe this is due to the command we used analyzing images and other files as lines. 
+ * Gitstats reports WAY fewer lines of code 190358, i believe this is due to the command we used analyzing images and other files as lines.
+ * https://youtu.be/HSjpTWJr5TM
 
 #17: EveOnlineMarketAnalysisTool
  * 7 Contributors
