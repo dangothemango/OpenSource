@@ -11,6 +11,7 @@ Table 4 16-20
    * graphics-testing
    * gh-pages
    * stable
+ * Gitstats reports WAY fewer lines of code 190358, i believe this is due to the command we used analyzing images and other files as lines. 
 
 #17: EveOnlineMarketAnalysisTool
  * 7 Contributors
@@ -23,6 +24,7 @@ Table 4 16-20
    * Merge
    * dygraphs
    * Web
+ * Gitstats reports a few more lines of code and provides more infromation than we were supposed to find. it was hard to locate the dates of the first and most recent commits. but the other data was easily accessible
 
 #19: Gatekeeper
   * 2 Contributers
