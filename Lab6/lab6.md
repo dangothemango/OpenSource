@@ -32,3 +32,11 @@ Table 4 16-20
   * There are 2 branches:
     * Master
     * test/motor
+
+#20: Trellis
+  * 1 Contributer
+  * 3595 total lines of code
+  * First commit August 30th, 2015
+  * Latest commit December 10th, 2015
+  * There is 1 branch:
+    * Master   
