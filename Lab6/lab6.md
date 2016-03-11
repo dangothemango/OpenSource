@@ -43,5 +43,9 @@ Table 4 16-20
   * There are 2 branches:
     * Master
     * test/motor
+  * * Gitstats:
++    * The contributers always commited in the afternoon. 
++    * There were only a few commits so gitstats didn't offer much more insight into the project.
++   * [Gource Visualization](https://youtu.be/qlmHoGevHoQ)
 
 
