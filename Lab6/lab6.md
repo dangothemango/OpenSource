@@ -33,6 +33,7 @@ Table 4 16-20
   * Latest commit December 10th, 2015
   * There is 1 branch:
     * Master   
+  * Gitstats reports a few less lines of code than I thought there was.  Overall it was very informative and displayed lots of information about the origin of commits.
 
 #19: Gatekeeper
   * 2 Contributers
